@@ -82,14 +82,14 @@ Most of the computer programs we use: whether office suites, web browsers, even 
 Configuration files are very simple in structure. For instance, if you were to write an application, and the only thing it ever needed to know was its user's preferred name, then its one and only config file could contain exactly one word: the name of the user. For example:
 
 ```
-Chetan
+NAMAN
 ```
 
 Usually, though, an application needs to keep track of more than just one piece of information, so configuration often uses a key and a value:
 
 ```
-NAME='Chetan'
-SURNAME='Nada'
+NAME='Naman'
+SURNAME='Jain'
 ```
 
 ## Q: What are `React Hooks`?
